@@ -43,6 +43,7 @@ def main() -> None:
 
     LOG.info("========================")
     LOG.info("START main()")
+    LOG.info("ITS GONNA WORK!")
     LOG.info("========================")
 
     log_path(LOG, "ROOT_DIR", ROOT_DIR)
@@ -52,6 +53,7 @@ def main() -> None:
     LOG.info("Pipeline executed successfully!")
     LOG.info("========================")
     LOG.info("END main()")
+    LOG.info("We are FINISHED!")
 
 
 # === CONDITIONAL EXECUTION GUARD ===

@@ -82,8 +82,7 @@ After you get a copy of this repo in your own GitHub account,
 open a machine terminal in your `Repos` folder:
 
 ```shell
-# Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-01-getting-started
+git clone https://github.com/kehummel/cintel-01-getting-started
 cd cintel-01-getting-started
 code .
 ```
@@ -116,3 +115,7 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+
+
+## 3/16 Edits
+I added more LOGs/outputs to the code. I made them encouraging just to see where they would show up. It ran successfully.
